@@ -7,7 +7,7 @@ Here are some of the python scripts that can be used to scrap data from any webs
 3- Scrap Images from the website
 4- Scrap Specific data like Person Emails, Sales, Finanicials and addresses
 
-=================================================================================================================================================================================4
+================================================================================
 
 Web scraping of company Profiles:
 
