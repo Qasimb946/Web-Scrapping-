@@ -7,3 +7,27 @@ Here are some of the python scripts that can be used to scrap data from any webs
 3- Scrap Images from the website
 4- Scrap Specific data like Person Emails, Sales, Finanicials and addresses
 
+=================================================================================================================================================================================4
+
+Web scraping of company Profiles:
+
+The project can Scrap 120 Millions of data from the website. 
+
+It scraps the following items from the website www.dnb.com
+
+1- Company Name
+2- Street Address
+3- Regional Address
+4- Phone
+5- Website Link
+6- Company Type
+7- Number of Employees
+8- Total Sales Revenue
+9- Board Members
+10- Founding year
+
+The scraper saves data in CSV format. The scraper is dynamic and can be used for other links of the website. 
+
+#Python#BeautifulSoup#Requests#time#CSV
+
+Contact me for more scraping scripts.
